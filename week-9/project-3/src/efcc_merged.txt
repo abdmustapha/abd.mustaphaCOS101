@@ -1,0 +1,5 @@
+Commissioner: Aigbogun Alamba Daudu,Ministry: Internal Affairs, Zone: South West
+Commissioner: Murtala Afeez Bendu,Ministry: Justice, Zone: North East
+Commissioner: Okorocha Calistus Ogbonna,Ministry: Defense, Zone: South South
+Commissioner: Adewale Jimoh Akanbi,Ministry: Power and Steel, Zone: South West
+Commissioner: Osazuwa Faith Etiye,Ministry: Petroleum, Zone: South East
