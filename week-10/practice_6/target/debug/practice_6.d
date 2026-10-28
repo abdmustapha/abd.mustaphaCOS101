@@ -1,0 +1,1 @@
+C:\Users\abdul\OneDrive\Documents\COS-101-Project\abd.mustaphaCOS101\week-10\practice_6\target\debug\practice_6.exe: C:\Users\abdul\OneDrive\Documents\COS-101-Project\abd.mustaphaCOS101\week-10\practice_6\src\main.rs
